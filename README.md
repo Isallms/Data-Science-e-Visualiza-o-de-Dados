@@ -1,1 +1,1 @@
-https://github.com/Isallms/Data-Science-e-Visualiza-o-de-Dados.github.io.git
+https://isallms.github.io/Data-Science-e-Visualiza-o-de-Dados.github.io/
